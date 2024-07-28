@@ -1,0 +1,3 @@
+{"timestamp":47239050,"category":"browser.usage","name":"interaction","extra":{"source":"keyboard","glean_timestamp":"1721221132852","widget_id":"cmd-handleBackspace","flow_id":"{1a3456a3-f033-4ca3-aab1-d819a5e75544}"},"execution_counter":2}
+{"timestamp":47240156,"category":"browser.usage","name":"interaction","extra":{"glean_timestamp":"1721221133958","widget_id":"cmd-handleBackspace","source":"keyboard","flow_id":"{1a3456a3-f033-4ca3-aab1-d819a5e75544}"},"execution_counter":2}
+{"timestamp":47451082,"category":"browser.usage","name":"interaction","extra":{"widget_id":"cmd-closeWindow","flow_id":"{1a3456a3-f033-4ca3-aab1-d819a5e75544}","source":"tabs-bar","glean_timestamp":"1721221344885"},"execution_counter":2}
